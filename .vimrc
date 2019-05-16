@@ -12,3 +12,5 @@ set expandtab       " tabs are spaces
 set cursorline 		  " highlights the current line
 
 colorscheme desert	" enables the desert color pattern
+
+set incsearch       " search as characters are entered
